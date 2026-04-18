@@ -18,5 +18,6 @@ namespace Foody.DTOs
 
         [JsonPropertyName("url")]
         public string Url { get; set; }
+
     }
 }
